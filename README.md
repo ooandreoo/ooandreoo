@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ooandreoo
+- 👀 I’m interested in software development, and how to make my code more performant, secure, following a good architecture and good programming practices
+- 🌱 I’m currently learning Java, Golang and Python
